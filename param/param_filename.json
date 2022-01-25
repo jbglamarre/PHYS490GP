@@ -1,0 +1,13 @@
+{
+	"files_per_batch" 		 : 1 ,
+	"learning_rate" 	 : 0.00001 ,
+	"num_epochs" 		 : 25 ,
+	"num_epochs_display" : 1 , 
+	"verbosity" : 2 ,
+    "model_load_path" :  "Model_Save/model_weights_500_25_3_DIG",
+    "model_save_path" :  "Model_Save/model_weights_500_25_4_DIG", 
+    "loss_save_path" :   "results/Training_Loss.txt" ,
+    "performance_save_path" :   "results/Performance.txt " ,
+    "train" : false,
+    "test" : true
+}
